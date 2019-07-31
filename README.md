@@ -13,11 +13,13 @@ This example shows how to implement LINE login SSO in the .net core Razor PageMo
 ```
 3. update the Callback url in the LINE developer portal
 <img src='https://i.imgur.com/rDmURwy.png' />
-4. go to the folder which included the file 'LineLogin.csproj'
+4. go to the folder which included the file 'LineLogin.csproj' 
+
 5. Run this app with following command  (of couse, dotnet core 2.2 need to installed):
 ```
 dotnet run
 ```
+
 6. OR, you can simply use visual studio 2019 to open and run this project
 
 <img src='https://i.imgur.com/1grmNo9.png' />
